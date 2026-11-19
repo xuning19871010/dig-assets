@@ -1,0 +1,2 @@
+# dig-assets
+asset mirror
